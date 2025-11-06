@@ -19,7 +19,7 @@ I'm always eager to learn, collaborate, and contribute to impactful, tech-driven
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=atharvaj1234&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak"  />
+  <img src="https://streak-stats.demolab.com?user=atharva9167j&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak"  />
 </div>
 
 <br><br>
@@ -101,10 +101,10 @@ I'm always eager to learn, collaborate, and contribute to impactful, tech-driven
 ## Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvaj1234&repo=Glyphify&cache_seconds=86400&theme=holi" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvaj1234&repo=SkilsElevate_Aptitude_Assessment_Tool&cache_seconds=86400&theme=holi" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvaj1234&repo=github-readme-stats&cache_seconds=86400&theme=holi" /> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvaj1234&repo=github-readme-stats&cache_seconds=86400&theme=holi" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharva9167j&repo=Glyphify&cache_seconds=86400&theme=holi" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharva9167j&repo=SkilsElevate_Aptitude_Assessment_Tool&cache_seconds=86400&theme=holi" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharva9167j&repo=github-readme-stats&cache_seconds=86400&theme=holi" /> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharva9167j&repo=github-readme-stats&cache_seconds=86400&theme=holi" /> -->
 </div>
 
 <br>
@@ -112,8 +112,8 @@ I'm always eager to learn, collaborate, and contribute to impactful, tech-driven
 ## Statistics
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvaj1234&theme=holi&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvaj1234&theme=holi&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" width="35%" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=atharva9167j&theme=holi&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva9167j&theme=holi&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" width="35%" />
 </p>
 
 ## Connect with Me
@@ -121,7 +121,7 @@ I'm always eager to learn, collaborate, and contribute to impactful, tech-driven
 <p align="center">
   <a href="https://www.linkedin.com/in/jagtap-atharva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:atharvaj365@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://atharvaj1234.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiBoZWlnaHQ9IjgwMHB4IiB3aWR0aD0iODAwcHgiIHZlcnNpb249IjEuMSIgaWQ9Ikljb25zIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMzIgMzIiIHhtbDpzcGFjZT0icHJlc2VydmUiIHN0cm9rZT0iI2ZmZmZmZiI+Cg08ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCIvPgoNPGcgaWQ9IlNWR1JlcG9fdHJhY2VyQ2FycmllciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cg08ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+IDxnPiA8cGF0aCBkPSJNMjYsOWgtMi42Yy0xLjItMy00LjEtNS03LjQtNWMtMy4zLDAtNi4yLDItNy40LDVINmMtMS43LDAtMywxLjMtMywzdjAuNkMzLDE2LjEsNS45LDE5LDkuNCwxOWgxMy4zIGMzLjUsMCw2LjQtMi45LDYuNC02LjRWMTJDMjksMTAuMywyNy43LDksMjYsOXogTTE2LDZjMi4yLDAsNC4xLDEuMiw1LjIsM0gxMC44QzExLjksNy4yLDEzLjgsNiwxNiw2eiIvPiA8cGF0aCBkPSJNMjMsMjFDMjMsMjEsMjMsMjEsMjMsMjFsMCwyYzAsMC42LTAuNCwxLTEsMXMtMS0wLjQtMS0xdi0ySDExdjJjMCwwLjYtMC40LDEtMSwxcy0xLTAuNC0xLTF2LTJjMCwwLDAsMCwwLDAgYy0yLjQtMC4xLTQuNS0xLjItNi0yLjlWMjVjMCwxLjcsMS4zLDMsMywzaDIwYzEuNywwLDMtMS4zLDMtM3YtNi45QzI3LjUsMTkuOCwyNS40LDIwLjksMjMsMjF6Ii8+IDwvZz4gPC9nPgoNPC9zdmc+&logoColor=white" alt="Portfolio"></a>
+  <a href="https://atharva9167j.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiBoZWlnaHQ9IjgwMHB4IiB3aWR0aD0iODAwcHgiIHZlcnNpb249IjEuMSIgaWQ9Ikljb25zIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMzIgMzIiIHhtbDpzcGFjZT0icHJlc2VydmUiIHN0cm9rZT0iI2ZmZmZmZiI+Cg08ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCIvPgoNPGcgaWQ9IlNWR1JlcG9fdHJhY2VyQ2FycmllciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cg08ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+IDxnPiA8cGF0aCBkPSJNMjYsOWgtMi42Yy0xLjItMy00LjEtNS03LjQtNWMtMy4zLDAtNi4yLDItNy40LDVINmMtMS43LDAtMywxLjMtMywzdjAuNkMzLDE2LjEsNS45LDE5LDkuNCwxOWgxMy4zIGMzLjUsMCw2LjQtMi45LDYuNC02LjRWMTJDMjksMTAuMywyNy43LDksMjYsOXogTTE2LDZjMi4yLDAsNC4xLDEuMiw1LjIsM0gxMC44QzExLjksNy4yLDEzLjgsNiwxNiw2eiIvPiA8cGF0aCBkPSJNMjMsMjFDMjMsMjEsMjMsMjEsMjMsMjFsMCwyYzAsMC42LTAuNCwxLTEsMXMtMS0wLjQtMS0xdi0ySDExdjJjMCwwLjYtMC40LDEtMSwxcy0xLTAuNC0xLTF2LTJjMCwwLDAsMCwwLDAgYy0yLjQtMC4xLTQuNS0xLjItNi0yLjlWMjVjMCwxLjcsMS4zLDMsMywzaDIwYzEuNywwLDMtMS4zLDMtM3YtNi45QzI3LjUsMTkuOCwyNS40LDIwLjksMjMsMjF6Ii8+IDwvZz4gPC9nPgoNPC9zdmc+&logoColor=white" alt="Portfolio"></a>
 </p>
 
 <p align="center">Let's build the future, together! 🚀</p>
